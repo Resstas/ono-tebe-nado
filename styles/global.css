@@ -38,3 +38,7 @@ img {
 main {
   position: relative;
 }
+
+address {
+  font-style: normal;
+}
